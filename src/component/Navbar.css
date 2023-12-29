@@ -1,0 +1,27 @@
+/* Navbar.css */
+
+.navbar {
+    background-color: royalblue;
+    padding: 10px;
+  }
+  
+  .nav-list {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+  }
+  
+  .nav-item {
+    margin-right: 15px;
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .nav-link:hover {
+    color: lightgray;
+  }
+  
